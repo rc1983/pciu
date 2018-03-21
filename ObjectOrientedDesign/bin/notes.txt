@@ -1,0 +1,31 @@
+apie
+
+abstraction
+polymorphism
+inheritance
+encapsulation
+
+abstraction 
+
+to focus on the essentials qualities of an object as opposed to a specific model or example. discard what is unimportant, and focus on what the most essential attributes are. it seperate from any specific instance. 
+
+we dont create one class for different types of objects (in general). we create one generic class. 
+
+encapsulation
+
+surrounding something to contain it and also to protect it. we use it to restrict access to the inner workings. also referred to as data hiding. hide everything about the object except those that are absolutely necessary. 
+
+inheritance
+
+great form of code reuse. 
+
+inheriting a class will give all the attributes and behaviors to the subclass. 
+
+multiple inheritance is possible in c++
+single inheritance is used by java. 
+
+this is what allows polymorphism to exist
+
+polymorphism
+
+means many forms. 

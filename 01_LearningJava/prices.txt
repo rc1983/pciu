@@ -1,0 +1,4 @@
+item1	$1.0
+item2	$2.0
+item3	$3.0
+item4	$4.0
